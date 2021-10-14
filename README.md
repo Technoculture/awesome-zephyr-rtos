@@ -15,19 +15,27 @@ Also refer to [Awesome-zephyr](https://github.com/fkromer/awesome-zephyr)
 - [A Zephyr RTOS based Lorawan node](https://github.com/fcgdam/zLorawan_Node)
 - [Desay D6 smart watch zephyr rtos](https://github.com/najnesnaj/dsd6-zephyr)
 - [Getting Started with Zephyr RTOS](https://github.com/bdcabreran/zephyr_RTOS_nucleo_l476rg) ⭐
+- [PWM controller servo motors](https://github.com/octobotics/motor_control)
 
 
 ## Drivers
 - [BlackBerry trackpad Zephyr RTOS driver](https://github.com/protobits/bbtrackpad_zephyr)
+- [HCSR04](https://github.com/smeetsomaiya/zephyr-sensor-driver-plus-app/tree/master/drivers/sensor/hcsr04)
 
 
 ## Libraries
 - [Arduino package based on ZephyrRTOS (or Arduino API module for Zephyr RTOS)](https://github.com/soburi/arduino-on-zephyr)
+- [Calendar API for Zephyr RTOS](https://github.com/bpbradley/zcalendar)
 
 
 ## Tutorials
 - [Zephyr Tutorial for Beginners](https://github.com/maksimdrachov/zephyr-rtos-tutorial)
 - [zephyr RTOS examples](https://github.com/ChunghanYi/zephyr-examples)
+- [Repository for custom Zephyr RTOS based boards](https://github.com/LairdCP/zephyr_boards)
 
 
 ## Templates
+
+
+## Tools
+- [Header include map generator for Zephyr RTOS](https://github.com/smrtos/ZephyrIncludeMap)

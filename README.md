@@ -5,6 +5,7 @@ Also refer to [Awesome-zephyr](https://github.com/fkromer/awesome-zephyr)
 
 ## Reference Projects
 - [A small self balancing Robot](https://github.com/skalldri/project-wobble) : Contains custom drivers, documentation
+- [FOC Motor Control Firmware](https://github.com/teslabs/spinner), also refer to the corresponding [talk](https://www.youtube.com/watch?v=9XKQqPuZh9w&t=1s)
 - [Pinetime smartwatch using Nordic nrf52 and zephyr RTOS](https://github.com/najnesnaj/pinetime-zephyr) : Contains custom drivers, documentation
 - [RISC-V Electronic Badge open source software Zephyr RTOS application](https://github.com/antmicro/riscv-badge-application) 
 - [MG100 Zephyr RTOS based firmware](https://github.com/LairdCP/MG100_firmware)

@@ -46,7 +46,10 @@ This list is focused on collecting examples of the **use** of Zephyr. It helps m
 - [Header include map generator for Zephyr RTOS](https://github.com/smrtos/ZephyrIncludeMap)
 
 # Platformio
-- Example: Blinking LED on [Nxp MxRT](https://github.com/platformio/platform-nxpimxrt/tree/develop/examples/zephyr-blink) and [Arduino Due](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
-- Example: [Using the logger subsystem](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
-- Example: [Interfacing with an LCD without the use of the Driver API model](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-lcd-hd44780)
-- Example: [Multithreading and Synchronization](https://github.com/platformio/platform-nxpimxrt/tree/develop/examples/zephyr-synchronization)
+- Blinking LED on [Nxp iMx-RT](https://github.com/platformio/platform-nxpimxrt/tree/develop/examples/zephyr-blink) and [Arduino Due](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
+- [Using the logger subsystem](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
+- [Interfacing with an LCD without the use of the Driver API model](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-lcd-hd44780)
+- [Multithreading and Synchronization](https://github.com/platformio/platform-nxpimxrt/tree/develop/examples/zephyr-synchronization)
+- [Using the CAN bus](https://github.com/platformio/platform-ststm32/tree/develop/examples/zephyr-drivers-can)
+- [Writing thin C++ abstrastions](https://github.com/platformio/platform-ststm32/blob/develop/examples/zephyr-cpp-synchronization/src/main.cpp)
+- [HID mouse over USB](https://github.com/platformio/platform-ststm32/tree/develop/examples/zephyr-subsys-usb-hid-mouse)

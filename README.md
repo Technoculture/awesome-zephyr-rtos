@@ -1,6 +1,10 @@
-# awesome-zephyr-rtos
+# Awesome Zephyr-RTOS
 
-Also refer to [Awesome-zephyr](https://github.com/fkromer/awesome-zephyr)
+Refer to [Awesome-zephyr](https://github.com/fkromer/awesome-zephyr) for a comprehensive list. 
+
+This list is focused on collecting examples of the **use** of Zephyr. It helps me understand the RTOS better, if I can look through various examples. 
+
+> ❗❗❗ Please send pull requests, and help improve the list.
 
 
 ## Reference Projects
